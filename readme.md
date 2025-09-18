@@ -18,7 +18,7 @@ This website is a coffe shop.
 
 <br/>
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/ci4-template)
+![](https://visit-counter.vercel.app/counter.png?page=LtNamelin/ACTIVITY1_SAMUEL_ESPIRITU)
 
 <!-- ! Make sure it was similar to your github -->
 
