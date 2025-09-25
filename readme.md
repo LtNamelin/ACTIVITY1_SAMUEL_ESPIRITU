@@ -8,12 +8,12 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- * Title Section -->
-  <h3 align="center">Sam's Coffee Shop</h3>
+  <h3 align="center">Sam's Online Art Portfolio</h3>
 </div>
 
 <!-- * Description Section -->
 <div align="center">
-This website is a coffe shop.
+This website is an art portfolio that will be used to upload my artworks, merchandise, contact, and commission information for those that are interested in my works.
 </div>
 
 <br/>
